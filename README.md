@@ -24,3 +24,4 @@
 * Power Query (мова M)
 * DAX (Data Analysis Expressions)
 * MS Excel / SQL (початкове проектування структури)
+<img width="1317" height="738" alt="image" src="https://github.com/user-attachments/assets/29545593-751b-4b9d-a8ab-eafb2bfba8dd" />
